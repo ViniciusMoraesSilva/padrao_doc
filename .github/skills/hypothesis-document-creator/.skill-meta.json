@@ -1,0 +1,6 @@
+{
+    "name": "hypothesis-document-creator",
+    "description": "Cria Documentos de Hipótese completos e bem estruturados seguindo o padrão da squad, através de descoberta interativa ou a partir de um documento de referência fornecido pelo usuário.",
+    "language": "pt-br",
+    "version": "1.0.0"
+}

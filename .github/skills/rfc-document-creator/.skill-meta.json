@@ -1,0 +1,6 @@
+{
+  "name": "rfc-document-creator",
+  "description": "Cria RFCs técnicas enxutas e completas no padrão da squad, com foco em arquitetura, contrato de dados, operação, testes, implementação e rollback.",
+  "language": "pt-br",
+  "version": "1.0.0"
+}

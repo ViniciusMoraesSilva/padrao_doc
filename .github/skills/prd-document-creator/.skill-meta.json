@@ -1,0 +1,6 @@
+{
+  "name": "prd-document-creator",
+  "description": "Cria PRDs enxutos e completos no padrão da squad, com foco em problema, objetivo, escopo, regras de negócio, dados, aceite e handoff.",
+  "language": "pt-br",
+  "version": "1.0.0"
+}

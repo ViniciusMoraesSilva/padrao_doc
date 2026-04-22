@@ -1,0 +1,6 @@
+{
+  "name": "story-implementation-spec",
+  "description": "Gera TDDs operacionais por história a partir de RFC, PRD, Tech Spec ou histórias detalhadas, em formato enxuto e orientado à implementação assistida por IA.",
+  "language": "pt-br",
+  "version": "1.0.0"
+}

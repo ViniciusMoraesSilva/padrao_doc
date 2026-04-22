@@ -1,0 +1,4 @@
+interface:
+  display_name: "Story Implementation Spec"
+  short_description: "Gera e evolui TDDs operacionais por história"
+  default_prompt: "Use $story-implementation-spec para ler a RFC ou história, mapear tabelas, campos, regras e saídas, e gerar ou atualizar o TDD operacional pronto para implementação por IA."
